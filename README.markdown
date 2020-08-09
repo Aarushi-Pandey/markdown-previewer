@@ -2,7 +2,7 @@
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/aarushi-pandey/pen/WNrayZR](https://codepen.io/aarushi-pandey/pen/WNrayZR).
 
-Built a markdown previewer using following user stories:
+Made a markdown previewer from scratch (with help from a youtube video) using the following user stories from freeCodeCamp:
 
 User Story #1: I can see a textarea element with a corresponding id="editor".
 
@@ -17,3 +17,7 @@ User Story #5: When my markdown previewer first loads, the default text in the #
 User Story #6: When my markdown previewer first loads, the default markdown in the #editor field should be rendered as HTML in the #preview element.
 
 Optional Bonus (you do not need to make this test pass): My markdown previewer interprets carriage returns and renders them as br (line break) elements.
+
+Link to the youtube video which helped me make this- https://www.youtube.com/watch?v=xfPC4-v4tIk&t=185s
+
+This was my submission for that project.
